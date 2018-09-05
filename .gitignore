@@ -1,2 +1,3 @@
 target/
 .idea/
+src/main/java/demo/thrift_gen/
